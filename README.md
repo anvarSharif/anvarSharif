@@ -12,7 +12,7 @@
 - **DevOps**: Docker, Git, CI/CD  
 
 ### 📫 Связаться со мной:  
-📧 Email: Anvarshariif@email.com  
+📧 Email: Anvarshariif@gmail.com  
 💬 Telegram: [@Anvarsharif](https://t.me/@Anvarsharif)  
 🔗 LinkedIn: [Anvar sharif](https://www.linkedin.com/in/anvar-sharif-447767331)
 ## 📊 GitHub Statistikasi  
