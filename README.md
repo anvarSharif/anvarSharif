@@ -15,7 +15,7 @@
 📧 Email: Anvarshariif@gmail.com  
 💬 Telegram: [@Anvarsharif](https://t.me/@Anvarsharif)  
 🔗 LinkedIn: [Anvar sharif](https://www.linkedin.com/in/anvar-sharif-447767331)
-## 📊 GitHub Statistikasi  
+## 📊 Статистика GitHub
 
 ![Anvar sharif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anvarsharif&show_icons=true&theme=dark&count_private=true)
 
